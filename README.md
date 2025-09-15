@@ -1,2 +1,7 @@
-# info
-repo info
+<details>
+  <summary>Checkmate 😏</summary>
+  
+  
+  ```python
+  The repo is private 
+  ```
