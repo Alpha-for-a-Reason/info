@@ -1,7 +1,7 @@
+
 <details>
   <summary>Checkmate 😏</summary>
-  
-  
-  ```python
-  The repo is private 
-  ```
+  <pre><code>
+The repo is private 🖕
+  </code></pre>
+</details>
